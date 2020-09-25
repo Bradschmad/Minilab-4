@@ -5,6 +5,9 @@ hello
 UUUUUUUmmmmmmmm
 Hullow
 
+<<<<<<< HEAD
 edit from local machine
 !!!!!!!!
 
+=======
+>>>>>>> 1f0ed7a1db115aee814b35a0c24b25a4fa034b43
